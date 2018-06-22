@@ -11,3 +11,4 @@ X = randmvn(mu,covmat,nsample);
 % here is some other changes. 
 
 Y = sum(X);
+% end of the file
