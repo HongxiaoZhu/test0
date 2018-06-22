@@ -5,3 +5,4 @@
 #/README.md  # ignore README file under the current directory
 /README # ignore README file under the current directory
 new_folder/ # ignore all files in the new_folder directory
+my_private_folder/ # ignore a folder (do not commit everything in that folder)
