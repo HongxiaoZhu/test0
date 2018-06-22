@@ -2,4 +2,5 @@
 .Rhistory
 .RData
 .Ruserdata
-
+/README  # ignore README file under the current directory
+new_fold/ # ignore all files in the new_folder directory
