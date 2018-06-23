@@ -7,3 +7,4 @@
 new_folder/ # ignore all files in the new_folder directory
 my_private_folder/ # ignore a folder (do not commit everything in that folder)
 matlab_script/zhutest/ # ignore a subfolder
+r_script/test1/ # ignore a subfolder
